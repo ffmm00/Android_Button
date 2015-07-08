@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestButton</string>
+
+    <string name="next">次の画面へ移動します</string>
+    <string name="end">移動しました</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity__second">Activity_Second</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
